@@ -1,2 +1,4 @@
-# Leet Code Progress
-archive of my leetcode progress
+# LeetCode Progress
+## 🗃️ An archive of my leetcode progress
+
+https://leetcode.com/u/RushilMahadevu/
