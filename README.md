@@ -1,41 +1,125 @@
-# 🚀 LeetCode Progress
+# 🚀 LeetCode Progress  
 
-## An archive of my LeetCode journey
+## Welcome! 👋  
 
+This repository is my personal archive of progress and learning on **LeetCode**, where I hone my problem-solving skills and deepen my understanding of algorithms and data structures. Whether you're a fellow learner or just curious, I hope this repository inspires and guides you in your coding journey.  
 
-Welcome to my LeetCode progress repository! This is where I track and document my journey through the LeetCode platform, sharpening my problem-solving skills and expanding my knowledge of algorithms and data structures.
+---  
 
-## 🎯 Overview Section
+## 🎯 Challenge Summary  
 
-Here's a summary of the LeetCode challenges I've completed so far:
+Here’s a quick summary of the challenges I’ve completed so far:  
 
-| Difficulty | SECTION
-| ---------- | ---------
-| Easy       | [🔗 Link](https://github.com/RushilMahadevu/LeetCode/tree/main/Easy)
-| Medium     | [🔗 Link](https://github.com/RushilMahadevu/LeetCode/tree/main/Medium)
-| Hard       | [🔗 Link](https://github.com/RushilMahadevu/Leetcode/blob/main/README.md)
+| Difficulty | Link to Solutions                                                                 |
+|------------|-----------------------------------------------------------------------------------|
+| **Easy**   | [🔗 Easy Challenges](https://github.com/RushilMahadevu/LeetCode/tree/main/Easy)   |
+| **Medium** | [🔗 Medium Challenges](https://github.com/RushilMahadevu/LeetCode/tree/main/Medium) |
+| **Hard**   | [🔗 Hard Challenges](https://github.com/RushilMahadevu/Leetcode/blob/main/Hard)   |  
 
-## 📈 Progress Tracking
+---  
 
-You can view an archive of my LeetCode progress at the following link:
+## 📈 Progress Tracking  
 
-[https://leetcode.com/u/rushilmahadevu/](https://leetcode.com/u/rushilmahadevu/)
+Stay updated with my LeetCode journey:  
+[🔗 My LeetCode Profile](https://leetcode.com/u/rushilmahadevu/)  
 
-## 🛠️ Suggested Workflows
+---  
 
-Based on your tech stack, here are some suggested workflows to enhance your LeetCode experience:
+## 🛠 Learning Focus  
 
-- **Publish Python Package**: Publish a Python package to PyPI on release.
-- **Python Application**: Create and test a Python application.
-- **PyLint**: Lint your Python code with PyLint.
+Below is a curated list of topics I am focusing on to sharpen my problem-solving skills:  
 
-## 🌐 Languages
+| Topic                 | Key Concepts & Applications                                           |
+|-----------------------|-----------------------------------------------------------------------|
+| **Array/String**       | Array manipulation, string operations, and pattern matching.         |
+| **Two Pointers**       | Efficient solutions using two-pointer techniques.                    |
+| **Sliding Window**     | Optimizing for subarray or substring problems.                       |
+| **Matrix**             | Working with 2D arrays and matrix-based challenges.                  |
+| **Hashmap**            | Efficient lookups, insertions, and deletions using hashmaps.         |
+| **Intervals**          | Solving problems with ranges and overlapping intervals.              |
+| **Stack**              | Stack-based algorithms and applications in problem-solving.          |
+| **Linked List**        | Handling singly and doubly linked list problems.                     |
+| **Binary Tree General**| Fundamental tree operations and traversals.                          |
+| **Binary Tree BFS**    | Exploring breadth-first traversal techniques for trees.              |
+| **Binary Search Tree** | Problems involving properties of binary search trees.                |
+| **Graph General**      | Core graph theory and traversal algorithms.                          |
+| **Graph BFS**          | Breadth-first search applications in graph problems.                 |
+| **Trie**               | Efficient prefix and substring searching with trie structures.       |
+| **Backtracking**       | Exploring problem spaces using backtracking techniques.              |
+| **Divide & Conquer**   | Breaking problems into smaller subproblems for efficient solutions.  |
+| **Kadane's Algorithm** | Solving maximum subarray problems efficiently.                       |
+| **Binary Search**      | Fast searching in sorted arrays and structures.                      |
+| **Heap**               | Priority queues and heap-based problem-solving.                      |
+| **Bit Manipulation**   | Using bitwise operations for optimization and problem-solving.       |
+| **Math**               | Applying mathematical concepts to solve algorithmic problems.        |
+| **1D DP**              | Dynamic programming with 1-dimensional states.                      |
+| **Multidimensional DP**| Solving problems with multidimensional dynamic programming states.    |
 
-Currently, I'm tackling LeetCode challenges using the following language:
+---  
 
-- Python 100.0%
+## 🌐 Languages Used  
 
-## 📚 Resources
+- **Python (100%)**  
+  Python is my primary language for solving LeetCode challenges.  
+  *Future goal:* Learn and apply **JavaScript** after mastering Python fundamentals.  
 
-- [LeetCode Documentation](https://leetcode.com/docs/)
-- [Python Programming Language](https://www.python.org/)
+---  
+
+## 💡 Key Takeaways  
+
+- **Consistency is key:** Progressing on LeetCode requires consistent effort and practice.  
+- **Learn from mistakes:** Analyzing failed attempts is crucial for understanding problem-solving patterns.  
+- **Keep improving:** Revisiting old solutions and optimizing them helps consolidate concepts.  
+
+---  
+
+## 📚 Resources  
+
+Here are some resources that help me in my journey:  
+
+- [LeetCode Problem Set](https://leetcode.com/problemset/)  
+- [Python Official Documentation](https://www.python.org/)  
+- [GeeksforGeeks Data Structures](https://www.geeksforgeeks.org/data-structures/)  
+- [Visual Algo](https://visualgo.net/en) for algorithm visualization.  
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) for analyzing algorithm complexity.
+
+### ⚡ Neet Code
+
+NeetCode deserving of his own section helped me greatly throughout my LeetCode journey.<br />
+Please check him out!
+
+- [NeetCode](https://www.youtube.com/c/neetcode/)
+- [NeetCodeIO](https://www.youtube.com/@NeetCodeIO)
+
+---  
+
+## 💻 Repository Structure  
+
+This repository is organized by difficulty level:  
+
+```
+LeetCode/
+├── Easy/
+│   ├── Problem1.py
+│   ├── Problem2.py
+├── Medium/
+│   ├── Problem1.py
+│   ├── Problem2.py
+├── Hard/
+│   ├── Problem1.py
+│   ├── Problem2.py
+```
+
+Each folder contains solutions, comments, and explanations for the corresponding problems.  
+
+---  
+
+## 🚀 What's Next?  
+
+1. **Expand Problem Set:** Solve more challenges, focusing on diverse topics.  
+2. **Optimize Solutions:** Improve code efficiency for previously solved problems.  
+3. **Learn JS:** Apply JavaScript to enhance language versatility.  
+
+---  
+
+Feel free to explore and provide feedback! Happy coding! 😊  
