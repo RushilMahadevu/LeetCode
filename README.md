@@ -12,16 +12,16 @@ Here’s a quick summary of the challenges I’ve completed so far:
 
 | Difficulty | Link to Solutions                                                                 |
 |------------|-----------------------------------------------------------------------------------|
-| **Easy**   | [🔗 Easy Challenges](https://github.com/RushilMahadevu/LeetCode/tree/main/Easy)   |
-| **Medium** | [🔗 Medium Challenges](https://github.com/RushilMahadevu/LeetCode/tree/main/Medium) |
-| **Hard**   | [🔗 Hard Challenges](https://github.com/RushilMahadevu/Leetcode/blob/main/Hard)   |  
+| **🟢 Easy**   | [Easy Challenges](https://github.com/RushilMahadevu/LeetCode/tree/main/Easy)   |
+| **🟠 Medium** | [Medium Challenges](https://github.com/RushilMahadevu/LeetCode/tree/main/Medium) |
+| **🔴 Hard**   | [Hard Challenges](https://github.com/RushilMahadevu/Leetcode/blob/main/Hard)   |  
 
 ---  
 
 ## 📈 Progress Tracking  
 
 Stay updated with my LeetCode journey:  
-[🔗 My LeetCode Profile](https://leetcode.com/u/rushilmahadevu/)  
+🔗 [My LeetCode Profile](https://leetcode.com/u/rushilmahadevu/)  
 
 ---  
 
