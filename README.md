@@ -97,7 +97,7 @@ Please check him out!
 
 This repository is organized by difficulty level:  
 
-```
+``` python 
 LeetCode/
 ├── Easy/
 │   ├── Problem1.py
