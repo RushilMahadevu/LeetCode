@@ -4,7 +4,7 @@
 
 This repository is my personal archive of progress and learning on **LeetCode**, where I hone my problem-solving skills and deepen my understanding of algorithms and data structures. Whether you're a fellow learner or just curious, I hope this repository inspires and guides you in your coding journey.  
 
----  
+<br />  
 
 ## 🎯 Challenge Summary  
 
@@ -16,14 +16,14 @@ Here’s a quick summary of the challenges I’ve completed so far:
 | **🟠 Medium** | [Medium Challenges](https://github.com/RushilMahadevu/LeetCode/tree/main/Medium) |
 | **🔴 Hard**   | [Hard Challenges](https://github.com/RushilMahadevu/Leetcode/blob/main/Hard)   |  
 
----  
+<br />  
 
 ## 📈 Progress Tracking  
 
 Stay updated with my LeetCode journey:  
 🔗 [My LeetCode Profile](https://leetcode.com/u/rushilmahadevu/)  
 
----  
+<br />  
 
 ## 🛠 Learning Focus  
 
@@ -55,7 +55,7 @@ Below is a curated list of topics I am focusing on to sharpen my problem-solving
 | **1D DP**              | Dynamic programming with 1-dimensional states.                      |
 | **Multidimensional DP**| Solving problems with multidimensional dynamic programming states.    |
 
----  
+<br />  
 
 ## 🌐 Languages Used  
 
@@ -63,7 +63,7 @@ Below is a curated list of topics I am focusing on to sharpen my problem-solving
   Python is my primary language for solving LeetCode challenges.  
   *Future goal:* Learn and apply **JavaScript** after mastering Python fundamentals.  
 
----  
+<br />  
 
 ## 💡 Key Takeaways  
 
@@ -71,7 +71,7 @@ Below is a curated list of topics I am focusing on to sharpen my problem-solving
 - **Learn from mistakes:** Analyzing failed attempts is crucial for understanding problem-solving patterns.  
 - **Keep improving:** Revisiting old solutions and optimizing them helps consolidate concepts.  
 
----  
+<br />  
 
 ## 📚 Resources  
 
@@ -91,7 +91,7 @@ Please check him out!
 - [NeetCode](https://www.youtube.com/c/neetcode/)
 - [NeetCodeIO](https://www.youtube.com/@NeetCodeIO)
 
----  
+<br />  
 
 ## 💻 Repository Structure  
 
@@ -112,7 +112,7 @@ LeetCode/
 
 Each folder contains solutions, comments, and explanations for the corresponding problems.  
 
----  
+<br />  
 
 ## 🚀 What's Next?  
 
@@ -120,6 +120,6 @@ Each folder contains solutions, comments, and explanations for the corresponding
 2. **Optimize Solutions:** Improve code efficiency for previously solved problems.  
 3. **Learn JS:** Apply JavaScript to enhance language versatility.  
 
----  
+<br />  
 
 Feel free to explore and provide feedback! Happy coding! 😊  
